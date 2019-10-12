@@ -1,0 +1,2 @@
+# dubhacks-19
+An App “Integration of lip language and Hololens” using Hololens to transcript lip language to text in order to help people with hearing or speaking disabilities, increase conversation quality in a noisy environment, and help English learners with understanding the conversation. The goal of the project is to help recognizing lip speech using Microsoft Hololens when the audio is corrupted, as well as serve as a visual recognition method used for speaker verification in multi-speaker scenarios.
